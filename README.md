@@ -1,6 +1,5 @@
 - 👋 Hi, I’m malik
 - 👀 I’m interested in computational chemistry/biophysics 
-- 🌱 I’m currently learning about tools that can solve important problems in Chemistry and Medicine
 - 📫 Feel free to reach out at alabbasm@umich.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Have had both my femurs broken
